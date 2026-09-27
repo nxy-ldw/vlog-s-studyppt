@@ -1,0 +1,32 @@
+Vlog 拍摄教程 · 第二课《运镜入门》 图片素材来源清单
+==============================================================
+
+说明：以下实拍图片来自公开网络（经 Bing 图片检索下载），仅用于课堂教学演示。
+      讲解用示意图（机位轨迹、稳定对比、景别递进等）由本课程自制，可自由使用。
+      如需商用，请替换为自有素材或已授权图片。
+
+· case_night                 1024x512      lantern_night_983ca9.jpg
+· case_walk                  1000x588      follow_person_87e370.jpg
+· cover_cn                   1024x683      push_city_786765.jpg
+· crane_build                1024x683      crane_build_b4b602.jpg
+· crane_drone                1280x853      crane_drone_d7c3b3.jpg
+· follow_bike                1024x683      follow_bike_8d53cc.jpg
+· gimbal_cn                  1080x720      gimbal_cn_2a30c0.jpg
+· orbit_arch                 1024x683      orbit_arch_c063cd.jpg
+· orbit_person               1200x800      orbit_person_9a8a98.jpg
+· pan_city                   860x539       pan_city_704fd6.jpg
+· pan_land                   1600x766      pan_land_d5f297.jpg
+· pull_land                  1000x667      pull_land_366765.jpg
+· push_city                  1024x683      push_city_575577.jpg
+· push_person                860x573       push_person_2ad617.jpg
+· push_street                860x573       track_market_2f1348.jpg
+· stab_gimbal                860x574       stab_gimbal_c03220.jpg
+· stab_slider                              stab_slider_9ac2ba.jpg
+· stab_tripod                1617x1080     stab_tripod_6b68c3.jpg
+· tilt_arch                  1024x664      tilt_arch_ab8c98.jpg
+· track_corridor             1024x574      track_corridor_4434a9.jpg
+· track_walk                 1200x924      track_walk_7bc1e4.jpg
+· whip_pan2                  1024x683      whip_pan2_d41a13.jpg
+· zoom_cn                    1800x1156     zoom_cn_f19219.jpg
+
+共 28 个槽位 / 23 个独立图片文件。

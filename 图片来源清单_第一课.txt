@@ -1,0 +1,39 @@
+Vlog 拍摄教程 · 第一课《构图入门》 图片素材来源清单
+==============================================================
+
+说明：以下实拍图片来自公开网络（经 Bing 图片检索下载），仅用于课堂教学演示。
+      讲解用示意图（机位轨迹、稳定对比、景别递进等）由本课程自制，可自由使用。
+      如需商用，请替换为自有素材或已授权图片。
+
+· angle_flat                 860x573       vlog_person_002f3c.jpg
+· angle_high                 860x574       angle_high_10fec5.jpg
+· angle_low                  1024x683      dongfang_3c1c78.jpg
+· bal_left                   1706x1279     sym_tianan_e56e4b.jpg
+· bal_right                  1609x1080     sym_gugong_7a0bf8.jpg
+· cafe_cn                    1280x853      cafe_cn_393bc9.jpg
+· cover_bund                 860x536       shanghai_night_b16a58.jpg
+· depth_layers               1080x666      jiejing_china_58beb1.jpg
+· depth_zhangjia             1024x681      depth_zhangjia_ffe5fb.jpg
+· frame_blur                 1399x935      jiejing_china_1be019.jpg
+· frame_cn                   1024x683      frame_window_f24982.jpg
+· frame_door                 1024x768      frame_door_4b28e8.jpg
+· greatwall                  1024x724      greatwall_cd6d6a.jpg
+· hori_high                  1024x683      horizon_sea_706bad.jpg
+· hori_low                   1024x683      horizon_grass_154973.jpg
+· hori_mid                   1024x683      horizon_sea_44b1f2.jpg
+· hori_sea                   1024x684      horizon_sea_c3b8c5.jpg
+· lines_bridge               1000x667      lines_bridge_734926.jpg
+· lines_lead                 1600x1064     lines_rail_d152e4.jpg
+· lines_road                 1000x667      lines_road_a999f1.jpg
+· lines_walk                 3888x2592     lines_road_c4ab9b.jpg
+· liubai_min                 860x573       liubai_min_effebe.jpg
+· metro_cn                   900x600       metro_cn_ddce29.jpg
+· sanfen_city                1024x679      guilin_b96c74.jpg
+· sanfen_people              860x573       vlog_person_6619ee.jpg
+· sym_axis                   800x495       sym_gugong_06c7cc.jpg
+· sym_temple                 1024x640      sym_temple_ab0ec6.jpg
+· thirds_obj                 1242x930      chengdu_food_b313d5.jpg
+· vlog_street                1080x720      vlog_street_129ed8.jpg
+· xiangqi_hutong             1024x768      xiangqi_hutong_3f2e13.jpg
+
+共 41 个槽位 / 30 个独立图片文件。

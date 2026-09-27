@@ -1,0 +1,33 @@
+Vlog 拍摄教程 · 第四课《剪辑入门》 图片素材来源清单
+==============================================================
+
+说明：以下实拍图片来自公开网络（经 Bing 图片检索下载），仅用于课堂教学演示。
+      讲解用示意图（机位轨迹、稳定对比、景别递进等）由本课程自制，可自由使用。
+      如需商用，请替换为自有素材或已授权图片。
+
+· city_morning                             city_morning_*.jpg
+· cover_mic                                mic_wireless_*.jpg
+· edit_color                               edit_color_*.jpg
+· edit_desk                                edit_desk_*.jpg
+· edit_laptop                              edit_laptop_*.jpg
+· edit_phone                               edit_phone_*.jpg
+· edit_screen                              edit_screen_*.jpg
+· food_vlog                                food_vlog_*.jpg
+· mic_lav                                  mic_lav_*.jpg
+· mic_shotgun                              mic_shotgun_*.jpg
+· mic_wind                                 mic_wind_*.jpg
+· mountain_cn                              mountain_cn_*.jpg
+· music_app                                music_app_*.jpg
+· record_app                               record_app_*.jpg
+· script_plan                              script_plan_*.jpg
+· script_write                             script_write_*.jpg
+· sound_noisy                              sound_noisy_*.jpg
+· sound_room                               sound_room_*.jpg
+· street_night                             street_night_*.jpg
+· teahouse                                 teahouse_*.jpg
+· travel_vlog                              travel_vlog_*.jpg
+· vlog_cn                                  vlog_cn_*.jpg
+· vo_interview                             vo_interview_*.jpg
+· vo_person                                vo_person_*.jpg
+
+共 25 个槽位 / 24 个独立图片文件。
